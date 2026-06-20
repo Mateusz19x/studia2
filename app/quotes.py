@@ -5,8 +5,9 @@ QUOTES = [
     "Sukces to suma małych wysiłków powtarzanych dzień po dniu.",
     "Wyzwania czynią życie ciekawym.",
     "Nie ma rzeczy niemożliwych.",
-    "Każdy dzień jest nową szansą."
+    "Każdy dzień jest nową szansą.",
 ]
+
 
 def get_random_quote() -> str:
     """Zwraca losowy cytat z listy QUOTES."""
